@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+
 public class Student {
     int roll_no;
     String name;
