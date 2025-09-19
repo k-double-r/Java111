@@ -1,3 +1,5 @@
+package Unit1;
+
 public class MyNewExcept {
     public static void main(String[] args) {
         UserException ud = new UserException();
